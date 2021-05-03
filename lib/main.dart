@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -86,8 +84,8 @@ class _AnasayfaState extends State<Anasayfa> {
                             context,
                             MaterialPageRoute(
                                 builder: (context) => Yemekler(
-                                  adsoyad: t1.text,
-                                )));
+                                      adsoyad: t1.text,
+                                    )));
                       } else {
                         Navigator.push(context,
                             MaterialPageRoute(builder: (context) => Hata()));
