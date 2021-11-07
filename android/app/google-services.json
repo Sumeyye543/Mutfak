@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301936757937",
+    "project_id": "mutfak-188d6",
+    "storage_bucket": "mutfak-188d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301936757937:android:9c8539059f853b5d45e690",
+        "android_client_info": {
+          "package_name": "com.example.mutfak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301936757937-t85i50siqir77maog4qsie4hmb0m6ons.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyf6eG-OB3KdjzNnpaoEDis0InKxjB8gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301936757937-t85i50siqir77maog4qsie4hmb0m6ons.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
